@@ -2,8 +2,7 @@ let noiseMax = 1.5;
 let zoff = 0;
 
 function setup() {
-  let cnv = createCanvas(400, 400);
-  cnv.parent('sketch');
+  createCanvas(400, 400);
 }
 
 function draw() {
